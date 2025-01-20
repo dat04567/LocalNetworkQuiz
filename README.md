@@ -7,4 +7,4 @@
 
 ## Class diagrams
 
-![alt text](LocalNetworkQuiz-Page-3.drawio.png)
+![alt text](image-1.png)
